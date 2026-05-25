@@ -1,6 +1,6 @@
 # TechNews
 
-Dynamic news website developed for the Web Interface Development practical activity.
+Dynamic news website developed for the diw.
 
 ## Student Information
 
